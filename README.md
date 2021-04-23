@@ -4,7 +4,7 @@ A simple site using Flask and Mongodb
 
 ## 12/02/2021
 
-## By **[purity keter](https://)**
+## By **[purity keter](https://github.com/creativ427/flask-mongodb)**
 
 ## Dependencies ##
 
